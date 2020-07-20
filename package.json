@@ -1,0 +1,19 @@
+{
+  "name": "weglot-js-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-files": "^1.4.0",
+    "mocha": "^8.0.1"
+  }
+}
